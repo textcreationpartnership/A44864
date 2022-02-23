@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>David's labour and rest, or, A discourse on Acts XIII, v. 36 preached at the funeral of Mr. Richard Shute, the late Most Reverend Pastor of the congregation of Stow-Market in Suffolk : together with some memorable remarques upon the deceased, for the benefit and use of that parish / by Samuel Hudson ...</title>
+            <author>Hudson, Samuel, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44864</idno>
+            <idno type="STC">Wing H3264</idno>
+            <idno type="STC">ESTC R4246</idno>
+            <idno type="EEBO-CITATION">12894753</idno>
+            <idno type="OCLC">ocm 12894753</idno>
+            <idno type="VID">95160</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95160)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 384:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>David's labour and rest, or, A discourse on Acts XIII, v. 36 preached at the funeral of Mr. Richard Shute, the late Most Reverend Pastor of the congregation of Stow-Market in Suffolk : together with some memorable remarques upon the deceased, for the benefit and use of that parish / by Samuel Hudson ...</title>
+                  <author>Hudson, Samuel, 17th cent.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Astwood for Thomas Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shute, Richard, 1631 or 2-1686.</term>
+               <term>Bible. --  N.T. --  Acts XIII, 36 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95160:1" rendition="simple:additions"/>
+            <p>DAVID'S Labour and Reſt: OR, A DISCOURSE On <hi>ACTS</hi> XIII. <hi>v.</hi> 36.</p>
+            <p>Preached at the FUNERAL OF Mr. <hi>RICHARD SH<g ref="char:V">Ʋ</g>TE,</hi> THE LATE Moſt Reverend Paſtor of the Congregation of <hi>Stow-Market</hi> in <hi>Suffolk.</hi>
+            </p>
+            <p>TOGETHER With ſome memorable Remarques upon the De<g ref="char:EOLhyphen"/>ceaſed, for the Benefit and Uſe of that Pariſh.</p>
+            <p>By <hi>SAM<g ref="char:V">Ʋ</g>EL H<g ref="char:V">Ʋ</g>DSON,</hi> Rector of <hi>Earles Stonham.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>James Astwood</hi> for <hi>Thomas Parkhurst</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> at the lower end of <hi>Cheapſide,</hi> near <hi>Mercers-Chappel.</hi> 1689.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:95160:2"/>
+            <pb facs="tcp:95160:2"/>
+            <head>TO THE Truly Pious, and my much Honoured Siſter, Mrs. <hi>MARTHA SH<g ref="char:V">Ʋ</g>TE.</hi>
+            </head>
+            <opener>
+               <salute>Dear Siſter,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEN it pleaſed our Infinitely Wiſe and Holy God, to tranſlate my moſt Reverend and Worthy Bro<g ref="char:EOLhyphen"/>ther into thoſe bleſſed Manſions of Glory, where he now dwells for ever; I was my ſelf prevented by ſo ſharp a Sickneſs, as that I could neither accompa<g ref="char:EOLhyphen"/>ny that very numerous and extraordinary Train of Mourners, that follow'd him to his Grave; nor could I then be an Auditor of this excellent Diſcourſe preach'd at his Funeral: my Sorrows were much augmented upon both theſe Conſiderations: For in that dark hour of Providence, when the Crown was taken from thy Head, and a deep wound was made in
+<pb facs="tcp:95160:3"/>
+my own Heart, it would have been ſome relief to me, to have ſeen multitudes both of Miniſters and People, of different Perſwaſions about lit<g ref="char:EOLhyphen"/>tle things, ſo unanimouſly united as they were in their Sorrows, for the loſs of ſuch an Emi<g ref="char:EOLhyphen"/>nent Inſtrument of Gods Glory, and of ſo great an Example of practical Piety, conjoin'd with ſuch prudent managent of his Labour, as that he had effectually obtain'd much of his great End, <hi>viz.</hi> Of eſtabliſhing a profound Love to God, and to one another, in the Hearts of ve<g ref="char:EOLhyphen"/>ry many of his Auditors; and had alſo diffuſed the ſame Spirit into all his Brethren, in that Corner where God had plac'd him; it would have been a further Comfort me, to have heard the Duty of Imitation ſo Pathetically urged, as it then was, in that Sermon which is now made publick.</p>
+            <p>The report of which was then ſent me, but the Copy thereof came but lately into my Hands, with liberty of Printing it, and the reſtraint which the Reverend Author had firſt laid upon you, being in greateſt part remo<g ref="char:EOLhyphen"/>ved.</p>
+            <div type="part">
+               <opener>
+                  <salute>My Dear Siſter,</salute>
+               </opener>
+               <p>Although I could have wiſhed, that the
+<pb facs="tcp:95160:3"/>
+Impreſſion had been more early, yet it now comes time enough (I hope) not only to be communicated to his whole Flock, but to add ſome new Fuel to their former great Zeal, whilſt every one of them ſeemed very ardent<g ref="char:EOLhyphen"/>ly bent to pay, a moſt juſt Veneration to his Memory; which in Truth will be now beſt done, if that they hold this Glaſs frequently before them, and while they are beholding ſo beautifull a Picture (drawn but in brief, yet truly repreſenting him, and without all flatte<g ref="char:EOLhyphen"/>ry) they ſhall every one endeavour to dreſs and adorn themſelves according to ſo rare a pattern. <hi>Dear Siſter,</hi> I am informed that the time is almoſt come, when you will diſcharge part of that Legacy of 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> which my Ex<g ref="char:EOLhyphen"/>cellent Brother bequeathed to ſome Truſtees named in his Will, for the purchaſing of Lands, for the benefit of the Poor of that Bur<g ref="char:EOLhyphen"/>rough of <hi>Stow-Market,</hi> and that for ever: Now <hi>Dear Siſter,</hi> let me earneſtly beſeech you, that whenever you pay any part thereof, you would depoſite it in ſuch hands, as that a moſt ſacred Promiſe may be given you and us, who are Overſeers of his Will, that ſuch Lands may be purchas'd and alſo ſettled, ſo as that
+<pb facs="tcp:95160:4"/>
+the annual Rent may be employed, as the yearly reward of a School-maſter, for his Teaching of the Children of the pooreſt ſort, to read the <hi>Engliſh</hi> Bible, in ſuch number as the Truſtees ſhall think fit: This will be the erecting of a perpetual Monument to his me<g ref="char:EOLhyphen"/>mory, more laſting than any of Marble, which his Pariſhioners have Thought and Diſcourſed of to ſet over his Grave. May the good Will of him that dwelt in the Buſh, ſtill for ever dwell in that Town; and may the Holy Spi<g ref="char:EOLhyphen"/>rit of God, ſo influence all their Minds; that, that moſt precious Seed, which hath been ſown in their Hearts, by our (now glorifi'd) Relation, may take deep root, and bring forth abundant Fruit, which will be, I am ſure, the inexpreſſible Joy of thy Soul, and is the moſt earneſt Prayer of</p>
+            </div>
+            <closer>
+               <salute>Dear SISTER,</salute>
+               <signed>
+                  <hi>Your moſt Affectionately Sympathizing Brother,</hi> Sam. Fairclough.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:95160:4"/>
+            <head>To my Worthy and highly Honour<g ref="char:EOLhyphen"/>ed Couſin, <hi>Samuel Blackerby,</hi> 
+               <abbr>Eſq</abbr> and to my much eſteemed Friends, Mr. <hi>Charles Bloſſe,</hi> Mr. <hi>Joſeph Crane,</hi> Mr. <hi>John Keeble,</hi> Mr. <hi>John Carter,</hi> Mr. <hi>Benjamin Cutlove,</hi> Mr. <hi>John Peake,</hi> Mr. <hi>Jonathan Peake,</hi> Mr. <hi>Charles Booth,</hi> Mr. <hi>William Gerrard,</hi> Mr. <hi>Thomas Hayward,</hi> Truſtees for the Legacy be<g ref="char:EOLhyphen"/>queathed to the Burrough of <hi>Stow-Market,</hi> by their late Reverend Paſtor, Mr. <hi>Richard Shute.</hi>
+            </head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>AT the Deſire of my Siſter, (who is now in my Houſe, and not capable of doing it her ſelf) <hi>I</hi> do very Earneſty and Paſſionately requeſt, that the Annual Revenue of the Lgacy that her dear Husband and your late Reverend Paſtor, bequeathed to your Burrough, may be employed for the benefit of the Poor,
+<pb facs="tcp:95160:5"/>
+and not for the eaſe of the Rich. And <hi>I</hi> do believe it cannot be more avantageouſly laid out, than in pro<g ref="char:EOLhyphen"/>curing a Perſon (fit for ſuch a Work) who ſhall be obliged to Teach a certain number of poor Children to read the Engliſh Bible, whoſe Parents are not well able to be at that Charge for them: 'Tis true, my Brother hath not preſcribed any particular way for the expending of it, but <hi>I</hi> do not queſtion but this will be grateful to him, if he hath any know<g ref="char:EOLhyphen"/>ledge of what's done here below. <hi>I</hi> hope the Confi<g ref="char:EOLhyphen"/>dence he put in you will prompt you to uſe it in that way which (you cannot doubt) would be moſt accep<g ref="char:EOLhyphen"/>table to him, could he now ſpeak to you from Hea<g ref="char:EOLhyphen"/>ven, as he formerly did on Earth: You are Truſtees for God as well as for him; <hi>I</hi> pray Diſpoſe of it as Men that muſt give an Account thereof. <hi>I</hi> have no more to ſay, but that</p>
+            <closer>
+               <signed>
+                  <hi>I am your Friend and Servant,</hi> George Jones.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:95160:5"/>
+            <head>
+               <hi>DAVID</hi>'s Labour and Reſt.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>ACTS XIII.</hi> v. <hi>36.</hi>
+                  </bibl>
+                  <p>For David, after he had ſerved his own Generation by the Will of God, fell on ſleep.</p>
+               </q>
+            </epigraph>
+            <p>IF there be any Force either in Precept, Pro<g ref="char:EOLhyphen"/>hibition, Promiſe, or Preſident, to engage to Holineſs of Converſation; doubtleſs the Chri<g ref="char:EOLhyphen"/>ſtian is under the greateſt Obligation. No Re<g ref="char:EOLhyphen"/>ligion ſo ſtrictly commands Holineſs: <hi>Be ye holy in all manner of converſation:</hi> Nor more prohibits un<g ref="char:EOLhyphen"/>holineſs; without <hi>which no man ſhall ſee the Lord.</hi>
+               <note place="margin">Heb. 12.14.</note> Where do we meet with the like encouraging Pro<g ref="char:EOLhyphen"/>miſes? <hi>having the promiſe both of the life that now is,</hi>
+               <note place="margin">1 Tim. 4.8.</note> 
+               <hi>and of that which is to come.</hi> Or where ſo ſtrict and obliging Patterns and Examples, not only the Preſi<g ref="char:EOLhyphen"/>dent of the holy <hi>Jeſus,</hi> who went up and down do<g ref="char:EOLhyphen"/>ing good; but alſo a Cloud of Witneſſes, where<g ref="char:EOLhyphen"/>of we have one in the Text, holy <hi>David,</hi> who ſerved out his Generation.</p>
+            <p>In the projecting Age wherein we live, he is a very inconſiderable perſon that hath not ſome De<g ref="char:EOLhyphen"/>ſign or other on foot; but there is no Deſign a Chriſtian ought to have in in purſuit, comparable with that of <hi>glorifying God,</hi> and <hi>ſaving of his Soul:</hi> All others compared with this; whether raiſing
+<pb n="2" facs="tcp:95160:6"/>
+great Eſtates and Fortunes, or climbing up to high<g ref="char:EOLhyphen"/>eſt Pinnacles of Honour, are but low and beggarly Deſigns. Nor is there any other way we can bet<g ref="char:EOLhyphen"/>ter expreſs our reall care for carrying on this good Deſign, than by a ſuitable Comportment and en<g ref="char:EOLhyphen"/>deavour to do as <hi>David</hi> did, to ſerve out our own Generation: Nor any <hi>Rule</hi> for us to ſquare our Con<g ref="char:EOLhyphen"/>verſation by, in order to the glorifying of God, and ſerviceableneſs, than the Rule <hi>David</hi> walked by, <hi>viz.</hi> the <hi>Will of God.</hi> And whoſoever walketh in this Way, and by this Rule, may expect a <hi>David</hi>'s Iſſue and Event, to fall aſleep, to be ga<g ref="char:EOLhyphen"/>thered to their Fathers, and receive a glorious Re<g ref="char:EOLhyphen"/>ſurrection. The words as they lye in the Rela<g ref="char:EOLhyphen"/>tive ſence, are brought in to prove the Reſurrecti<g ref="char:EOLhyphen"/>on of Chriſt, and that as a thing foretold by the Pſalmiſt, That he would <hi>not ſuffer</hi> his <hi>Holy One to ſee corruption:</hi> But <hi>David</hi> ſaw corruption, and there<g ref="char:EOLhyphen"/>fore the Prediction of the Pſalmiſt relates to Chriſt, and not perſonally to <hi>David:</hi> For <hi>David,</hi> after he had ſerved out <hi>his generation by the will of God, fell on ſleep, and ſaw corruption,</hi> &amp;c.</p>
+            <p>But I ſhall conſider the words abſolutely in them<g ref="char:EOLhyphen"/>ſelves, which contain theſe three Conſidera<g ref="char:EOLhyphen"/>bles.</p>
+            <p>
+               <hi>Firſt,</hi> Good <hi>David</hi>'s <hi>Agency</hi> and Fidelity, <hi>He ſerv<g ref="char:EOLhyphen"/>ed out his generation.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The <hi>Canon</hi> or Rule of his Activity, <hi>the will of God.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> The <hi>Exodus,</hi> or Event of both, which doubtleſs was happy, <hi>He fell aſleep, and was ga<g ref="char:EOLhyphen"/>thered to his Fathers.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:95160:6"/>Of theſe three in their order,</p>
+            <p>
+               <hi>Firſt,</hi> Holy <hi>David</hi>'s <hi>fidelity</hi> and <hi>agency,</hi> who ſerv<g ref="char:EOLhyphen"/>ed out his Generation, <hi>i. e.</hi> the whole ſeries, courſe and ſcope of his Life, was how he might be ſer<g ref="char:EOLhyphen"/>viceable to God, in all the parts thereof, not only in a fit and mood, by ſtarts, and fits, but through<g ref="char:EOLhyphen"/>out his Generation.</p>
+            <p>Whoſe excellent Pattern,<note place="margin">Note.</note> recommends to us a neceſſary, and important Duty incumbent upon us, to be Active, and Serviceable to God in our Generation, in all the Stations and Relations Gods Providence ſets us in. He did not ſerve God, as a Servant his Maſter for a Year, or an Apprentice for ſeven Years, as long as his Indentures laſt, but he was as a bored Servant all his days: Not put<g ref="char:EOLhyphen"/>ting Limits, Bounds, or Periods to his Service, but as long as Life laſted. He never begun well, or to good purpoſe, that doth not continue his Fidelity: Nor may he expect a <hi>Crown of Life,</hi>
+               <note place="margin">Rev. 2.10.</note> who is not <hi>Faithful to the Death.</hi>
+            </p>
+            <p>And here I muſt conſider, <hi>David</hi> in his reſpe<g ref="char:EOLhyphen"/>ctive, and ſeveral Relations wherein Gods Provi<g ref="char:EOLhyphen"/>dence ſet him, and ſhew how ſerviceable he was in them all; and how reaſonable it is for us ſo to be. And thoſe were either in</p>
+            <p>His
+<list>
+                  <item>Political,</item>
+                  <item>Eccleſiaſtical,</item>
+                  <item>Domeſtick.</item>
+               </list>
+Relation.</p>
+            <p>
+               <hi>Firſt,</hi> Conſider him in his <hi>Political</hi> Relation, as he was a King. No ſooner did God advance him from the Shepherds Crook, and by his ſpecial
+<pb n="4" facs="tcp:95160:7"/>
+command, inveſt him with the Crown and Scep<g ref="char:EOLhyphen"/>ter to lead his People <hi>Iſrael,</hi> as his peculiar Flock, but he ſet himſelf to defend his Subjects, to ſubdue <hi>Iſraels</hi> common Enemies, put Gariſons into the Ci<g ref="char:EOLhyphen"/>ties for the ſafety of the Common-wealth: When poſſibly male-contents might think a leſs guard might ſerve the turn to ſecure the publick Peace. This was he who enjoyned, and commanded by his Authority the Worſhip of the God of <hi>Iſrael,</hi> according to the Law of <hi>Moſes,</hi> and required the People under his Charge to ſerve, and fear the God of <hi>Abraham.</hi> This was he, who was ſervice<g ref="char:EOLhyphen"/>able by appointing Judges, for the Execution of Judgment and Juſtice, both for the Puniſhment of evil-doers, and for the Praiſe of them that do well. Nor was he a negligent Adminiſtrator of Juſtice himſelf; or did he turn off all to be ma<g ref="char:EOLhyphen"/>naged by others hands: but declares, that when <hi>he ſhall receive the Congregation, he would judge up<g ref="char:EOLhyphen"/>rightly;</hi>
+               <note place="margin">Pſal. 75.2.</note> which he performed with great faithfulneſs, notwithſtanding the after-inſinuations of a Rebel<g ref="char:EOLhyphen"/>lious Son <hi>Abſolom,</hi> and a Crafty Courtier <hi>Achito<g ref="char:EOLhyphen"/>phel,</hi> who out of Siniſter ends aſperſed the Go<g ref="char:EOLhyphen"/>vernment, to raiſe their own Fortunes, and grati<g ref="char:EOLhyphen"/>fie their own ambition. It is a very difficult, if not impoſſible thing to wear a Crown long, but ſome touring Spirits will be apt to raiſe Clamour, and unreaſonable Slanders, and think it would fit better upon their own heads, and that if they had Power they could better manage the Affairs of State.</p>
+            <p>What he engaged to his God, <hi>David</hi> was careful to perform: <hi>Early deſtroying the wicked of the Land,
+<pb n="5" facs="tcp:95160:7"/>
+and cutting off evil doers from the City of the Lord.</hi> Leading his People <hi>Iſrael</hi> in the <hi>Integrity of his heart,</hi> and <hi>guiding them by the skilfulneſs of his hands.</hi> In ſhort, in his publick ſervice and adminiſtration, he eyed publick good, ſo as to the moſt and beſt men, <hi>Whatſoever the King did pleaſed the People.</hi>
+               <note place="margin">2 Sam. 3.16.</note>
+            </p>
+            <p>Conſider him, <hi>(Secondly,)</hi> in his <hi>Eccleſiaſtical</hi> rela<g ref="char:EOLhyphen"/>tion, as a Prophet of the Lord, and ſo he ſerved out his Generation.</p>
+            <p>This was he who brought the Ark; the viſible Symbol of God's Preſence from <hi>Kirjathjearim,</hi> and placed it in a Tabernacle, notwithſtanding the in<g ref="char:EOLhyphen"/>ſolent ſcoffs of a deriding <hi>Michal.</hi> So hard a thing it is for any in publick Authority to promote Reli<g ref="char:EOLhyphen"/>gion, but ſome or other will revile, and reproach. But yet he proceeded and made preparation for <hi>build<g ref="char:EOLhyphen"/>ing a Houſe for God,</hi> thô the compleating of it was left to his Succeſſor: yet his good purpoſe was ac<g ref="char:EOLhyphen"/>ceptable to God.</p>
+            <p>How careful was he in ordering the Prieſts and <hi>Levites</hi> to perform their Offices in their ſeveral cour<g ref="char:EOLhyphen"/>ſes, Sacred Writ do teſtifie; to rectifie abuſes,<note place="margin">2 Chron. 23.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and regulate the Worſhip of God. How induſtrious in compoſing that precious Model of divine Truth, the Book of the Pſalms! And ordering the Singers in their places to ſerve God in Prayers, Praiſes, and Thankſgiving! And himſelf alſo with Supplications and Interceſſions to God, ſtanding up in the gap to divert the wrath of a juſtly provoked God, from a God provoking People, as divers Pſalms teſtifie, <hi>Pſal.</hi> 79.83. nor was he wanting upon the Receipt of any ſignal bleſſing, to return his grateful reſentments of God's goodneſs: Several of the Pſalms being An<g ref="char:EOLhyphen"/>thems
+<pb n="6" facs="tcp:95160:8"/>
+of Praiſe, penn'd upon ſuch occaſions, to be publickly ſung: As <hi>Pſal.</hi> 18. &amp;c.</p>
+            <p>Nor <hi>(Thirdly,)</hi> was he leſs careful to be ſerviceable to God in his Private, or <hi>Domeſtick</hi> relation: By a holy, and exemplary Converſation. This was he who gave not only holy Precept, but Pattern, be<g ref="char:EOLhyphen"/>having <hi>himſelf wiſely,</hi>
+               <note place="margin">Pſal. 101.1.</note> and <hi>walking in the midſt of his houſe in the perfect way.</hi> 
+               <q>Not as too many, who regard not to debauch others under their charge by ill Preſident: Or others who care not if they have but their Servants bodily labour, thô the Devil have their Hearts and Lives. He doubt<g ref="char:EOLhyphen"/>leſs counſelled them to Piety, and bewailed the miſcarriages of any under his charge and care: When Rivers of Tears ran down his Eyes, becauſe men kept not God's Laws.</q>
+            </p>
+            <p>And <hi>(Laſtly,)</hi> conſider him in his <hi>carriage</hi> between God and his own Soul: He was a good Man, and after God's own Heart. He preſerved a holy aw and regard upon his Spirit,<note place="margin">Pſal. 4.</note> ſo as not preſumptuouſly to ſin and offend his Glorious Majeſty.<note place="margin">Id.</note> He lived not at random, but communed with his own heart, living under a daily ſence of his Duty and obliga<g ref="char:EOLhyphen"/>tions to God.<note place="margin">Pſal. 90.</note> And ſo <hi>numbering his dayes, as to ap<g ref="char:EOLhyphen"/>ply his heart to true wiſdom.</hi> Theſe I paſs over with all brevity; that in the next place I may evidence to you,</p>
+            <p>
+               <note place="margin">Reaſonable.</note>The <hi>reaſonableneſs</hi> of this his Agency for God in his Generation; and that upon a twofold account.</p>
+            <p>
+               <hi>Firſt,</hi> Upon the Account, that <hi>ſerviceableneſs</hi> to God is the end, and deſign of God's beſtowing upon us thoſe Talents, Abilities and Opportuni<g ref="char:EOLhyphen"/>ties we enjoy. Doubtleſs God did never intend
+<pb n="7" facs="tcp:95160:8"/>
+them to be laid out in Riot, or laid up in a Nap<g ref="char:EOLhyphen"/>kin: Neither to waſt them, or to ruſt.<note place="margin">1 Cor. 12.7.</note> The Can<g ref="char:EOLhyphen"/>dle is not to be put under a Buſhel. The <hi>manife<g ref="char:EOLhyphen"/>ſtation of the Spirit,</hi> (ſo all other good gifts of Health, Riches, Honour, <hi>&amp;c.</hi>) are <hi>given to every man to profit withal;</hi> to be uſeful in our places, to God's Glory, our own, and others good. He fruſtrates God's aim that doth not employ them; whatſoever we receive from God, we are not to take as Proprietors, but as Stewards, or as Executors: not to embezzle as we pleaſe, but to employ the bequeſts according to the will of the Donor.</p>
+            <p>
+               <hi>Secondly<g ref="char:punc">▪</g>
+               </hi> Conſidering the <hi>Account</hi> we muſt expect to give to our great Lord, of our Stewardſhip, when he ſhall ſummon us to appear, which will be a juſt and ſtrict account;<note place="margin">Rom. 2.7.</note> who <hi>will render to every man accord<g ref="char:EOLhyphen"/>ing to his works.</hi> As there is a reward to them <hi>who by patient continuance in well-doing, ſeek honour, glory, and immortal life;</hi> ſo there's <hi>indignation</hi> and wrath to <hi>every Soul</hi> who commits <hi>evil.</hi> If we acknowledge our ſelves Creatures (that receive all from God) we muſt expect an appearance: If we be more, let us ſhew it, in warding off that account if we can. But certain it is,<note place="margin">2 Cor. 5.</note> 
+               <hi>We muſt all appear at the judgment Seat of Chriſt;</hi> Therefore it is reaſonable we ſhould ſerve God in our Generation. What hath hitherto been inſiſted upon, may be matter of Admonition to us all.</p>
+            <p>
+               <hi>Firſt,</hi>
+               <note place="margin">Applyed.</note> To you my Reverend Brethren of the Cler<g ref="char:EOLhyphen"/>gy, to whom God hath committed <hi>Curam animarum,</hi> The charge of Souls; that we ſtudy this, of ſervice<g ref="char:EOLhyphen"/>ableneſs in our places, may we be careful to em<g ref="char:EOLhyphen"/>ploy our Talents for the deſigns of God's Glory,
+<pb n="8" facs="tcp:95160:9"/>
+and others good in our ſeveral Stations; not ſparing our pains for fear of haſtening our end. Our Lamps can never be better ſpent, or burnt out, than in light<g ref="char:EOLhyphen"/>ing others to Heaven.<note place="margin">2 Tim. 4.2.</note> 
+               <hi>Be we then inſtant in ſeaſon, and out of ſeaſon;</hi> both in Prayers and Preaching; re<g ref="char:EOLhyphen"/>buking and exhorting <hi>with all long-ſuffering and do<g ref="char:EOLhyphen"/>ctrine:</hi> If God peradventure will give Grace, not on<g ref="char:EOLhyphen"/>ly to the acknowledgment, but alſo to the Love of the Truth.</p>
+            <p>May we be willing to ſpend, and be ſpent in the ſervice of ſo dear a Lord: Not forgetting the injun<g ref="char:EOLhyphen"/>ction given us at our Ordination, when we had the Holy Bible put into our hands, with charge to preach the Goſpel.</p>
+            <p>
+               <q>And indeed can we be negligent, when beſides the Precepts to induſtry, we have alſo the excel<g ref="char:EOLhyphen"/>lent Patterns ſet before us. The holy Angels, who are miniſtring Spirits for the good of the Elect. Such a Cloud of Witneſſes, before us for the good of others; God himſelf, who doth good continual<g ref="char:EOLhyphen"/>ly, and excerciſeth a watchful eye of Providence over his Church; Chriſt, who whilſt on Earth went up and down doing good, and now in Heaven maketh continual interceſſion for us.</q>
+            </p>
+            <p>Or can we give up a better account of our Time, and Talents to God? What we do for his Glo<g ref="char:EOLhyphen"/>ry, and the Churches good, we may expect God will put upon the file.</p>
+            <p>Nor can we ſerve a better Lord and Maſter, who hath an obſervant Eye to regard us, and hath aſſu<g ref="char:EOLhyphen"/>red us,<note place="margin">1 Cor. 15. <hi>ult.</hi>
+               </note> 
+               <hi>That if we be ſtedfaſt unmoveable, and aboand<g ref="char:EOLhyphen"/>ing in the work of the Lord, our labour ſhall not be in vain in the Lord.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:95160:9"/>
+               <hi>Secondly,</hi> Nor are you in your more private Spheres and Capacities to be negligent of this, but to be ſerviceable to God in your Relations. In your Families by prudent management of thoſe under your charge; preventing as much as in you lies, thoſe extravagancies, times and places too much abound withal; by private admonitions, by a holy, peaceable, and obedient behaviour, <hi>Walk<g ref="char:EOLhyphen"/>ing worthy of the Lord unto all well pleaſing.</hi>
+            </p>
+            <p>And hereby you may give great encouragement and aſſiſtance to God's Faithful Miniſters; not diſcouraging thoſe who watch for your Souls.</p>
+            <p>This is the way to leave our Countrey better to Poſterity, as the Orator ſpeaks.</p>
+            <p>We have all but a little time to work in: The time is ſhort,<note place="margin">John 9.4.</note> we ſhall ſoon be at our Journeys end, <hi>The night approacheth,</hi> &amp;c. And hereby we ſhall bring comfort to our ſelves in the way; and have hopes in our Death.</p>
+            <p>But may we not take up a bitter <hi>Lamentation</hi> for ſo great a neglect of this Duty?<note place="margin">Lament.</note> How many prove unſerviceable in their Generation, or diſ<g ref="char:EOLhyphen"/>ſerviceable, either by fomenting needleſs diviſions, or a diſorderly Converſation, who regard more their private Cabins, than the publick good; who are as Wenns upon the Natural Body, draw away the nouriſhment, and cumberſome to be born; or like corrupt Stomachs, turn all to putrefaction.</p>
+            <p>I might here take occaſion to rebuke, and la<g ref="char:EOLhyphen"/>ment ſuch who ſerve not God, but their own bel<g ref="char:EOLhyphen"/>lies: Or ſerve God no further than will ſerve their own turns, who live as if the great God had ſent them hither upon no other Errand than to pamper the
+<pb n="10" facs="tcp:95160:10"/>
+Carkaſs, and feed the Brute.</p>
+            <p>But I hope better things of many of you, and that you are careful not only to be ſerviceable to God in your Generation, but withal, to take the true, beſt Canon for your Agency, <hi>The Will of God,</hi> which is my next thing to conſider.</p>
+            <p>The Second General is the Canon of <hi>Davids</hi> activity; <hi>The Will of God.</hi> I am not unſenſible there are who prefix this, and make it an Antecedent to what follows; reading them thus: <hi>By the Will of God he fell aſleep.</hi>
+            </p>
+            <p>
+               <note place="margin">Beza.</note>
+               <q>But beſides that this pointing of them is ſaid not to be found in the Ancient Copies: It may be conſidered, that thô it be true, that all who fall aſleep, do ſo by the <hi>Will of God;</hi> yet all do not ſerve out their Generation by the Will of God, which is by way of Eminency recom<g ref="char:EOLhyphen"/>mended to us in <hi>Davids</hi> Pattern, that he eyed his Rule,<note place="margin">Note.</note> 
+                  <hi>the Will of God:</hi>
+               </q> So that all our ſervice<g ref="char:EOLhyphen"/>ableneſs to God in our generation muſt be regu<g ref="char:EOLhyphen"/>lated by the Will of God. The Will of God is the only, and higheſt Rule for created Beings to act by; But not the Will of God as concealed, but as revealed to us: Things revealed belong to us.</p>
+            <p>We muſt not guide our ſelves by our unruly Fancies, or make our own blind turbulent paſſi<g ref="char:EOLhyphen"/>ons our Rule; Or that which ſome call Conſci<g ref="char:EOLhyphen"/>ence, thô never ſo miſguided, or a Light within them; for this is to be regulated by the Rule of God's Word, and Will; elſe there will be ſo ma<g ref="char:EOLhyphen"/>ny Rules as there are miſguided Conſciences in the World.</p>
+            <p>
+               <pb n="11" facs="tcp:95160:10"/>
+               <hi>David</hi> did not make God's ſecret Will the Rule of his Agency: For how could that be a rule for him, which was kept ſecret from him? nor did he run to any infallible Judge, or the determinations of the Church to make that his rule of Faith, or Life: But what God had clearly manifeſted to him, and to us, his Sacred Oracles are our Rule; ſo <hi>many as walk according to this Rule, Peace be on them.</hi>
+               <note place="margin">Gal. 6.16</note>
+            </p>
+            <p>
+               <q>If every Market-Town had a divers Standard for weights, and meaſures, who could know what were the Standard of the Nation. Doubtleſs the Word of God is a certain infallible, and ſuffi<g ref="char:EOLhyphen"/>cient Rule, elſe Chriſt was not faithful in his Pro<g ref="char:EOLhyphen"/>phetick Office.</q>
+            </p>
+            <p>May this be our practice in all matters of Faith, and Life: Take we a right rule, and if (in matters ritual and circumſtantial, and what not forbidden) we quietly ſubmit to the prudence of our Supe<g ref="char:EOLhyphen"/>riours, we ſhall not eaſily erre. And had this method been obſerved, God knows it had ended many of our unchriſtian, and uncharitable diſſen<g ref="char:EOLhyphen"/>tions. But when Men make their own will, good meaning, private opinion, good intention, or pre<g ref="char:EOLhyphen"/>judiced education, the rule of their Agency; and judge that their hands can only ſtay the tottering Ark, no wonder that the Church falls into endleſs rents and miſerable fractions. Activity without underſtanding like mettle in a blind Horſe, expoſes the Rider to greater hazards; or like mettle in a reſtife Jade, apt to run away with the Rider. Be we careful then not to miſtake our rule, nor be ſeduced by thoſe who pretend to be infallible Rule-makers, or guided only by a light within.</p>
+            <p>
+               <pb n="12" facs="tcp:95160:11"/>
+               <hi>Thirdly,</hi> Which leads me to the laſt conſidera<g ref="char:EOLhyphen"/>ble, the Iſſue, and Event: <hi>David,</hi> &amp;c. <hi>fell aſleep.</hi> And they who walk by <hi>David</hi>'s Rule, may expect the like iſſue: Sad news, doubtleſs, to all <hi>Iſrael,</hi> when holy <hi>David,</hi> who had fought <hi>Iſraels</hi> Battels, brought back the Ark, ſettled them in peace, and guided them by the skilfulneſs of his hand, ſhall fall aſleep; which muſt not be underſtood of periſhing, but as elſewhere, was gathered to his Fathers, or <hi>Reverſus in paradiſum,</hi> returned home to God. I read not that he ſtaid at <hi>Limbo</hi> in the way, until prayed out by the Charity of ſurviving Friends. But here obſerve with me,</p>
+            <p>
+               <hi>Firſt,</hi> That death to a good Man is but a Sleep, and as ſleep,</p>
+            <p n="1">
+               <note place="margin">Rev. 13.</note>(1.) Gives reſt and a ceſſation from labours, and toils; it is <hi>requies, et medicina laborum:</hi> So thoſe <hi>who ſleep in Jeſus,</hi>
+               <note place="margin">Eccleſ. 5.12.</note> 
+               <hi>reſt from their labours.</hi>
+            </p>
+            <p>Again, (2.) It gives Refreſhment, eſpecially af<g ref="char:EOLhyphen"/>ter hard labours: <hi>The ſleep of the labouring man is ſweet.</hi> The more ſerviceable in Life, the more refreſhing the Sleep of Death: Not like the affrighting ſleep of condemned Malefactors, or a Man in a Frenzy, who ſtart in their ſleep.</p>
+            <p>And (3.) As they who ſleep, awake again; ſo thoſe who ſleep in Jeſus, when they hear the ſound of the Trumpet, and the voice of the Son of Man, ſhall awake, and be raiſed up again as to their bodies;<note place="margin">1 Cor. 15.</note> 
+               <hi>And this corruptible ſhall put on incorrupti<g ref="char:EOLhyphen"/>on.</hi> God will be no mans Debtor, nor unfaith<g ref="char:EOLhyphen"/>ful to forget our work, and labour of Love. Thoſe very bodies which have been the Souls Inſtrument in faithful Services to God, ſhall
+<pb n="13" facs="tcp:95160:11"/>
+not be unrewarded in another World.</p>
+            <p>But (2.) No ſerviceableneſs to God in our Generation here, can exempt from Death: For <hi>David</hi> fell aſleep. This is the common lot of the Faithful, as well as ſlothful. Some wear out with Work, others moulder in Ruſt, and inacti<g ref="char:EOLhyphen"/>vity. <hi>Moſes,</hi> who received the Tables from the Mouth of God, gave Statutes, and Judgments to <hi>Iſrael,</hi> and brought them to the borders of the Land of <hi>Canaan,</hi> the next news we hear of him is, <hi>Moſes my Servant is dead.</hi>
+               <note place="margin">Joh. 7.</note> Elſewhere ſaith ſacred writ, <hi>Our Fathers are dead, and the Prophets do they live for ever?</hi>
+            </p>
+            <p>From which Premiſes, let us Inferr,<note place="margin">Infer.</note> How Scrip<g ref="char:EOLhyphen"/>ture dreſſeth up Death to a good Man; which thô to Nature it be the King of Terrours; yet to a Believer is but an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a pulling down the Cords of our Earthy Tabernacle; <hi>Repatri<g ref="char:EOLhyphen"/>zare,</hi> to return home, and in the Text a Sleep. And may not this remove all Dread, and Con<g ref="char:EOLhyphen"/>ſternation from our Spirits? who would not be willing to put off his cloaths to go to reſt? God intends thee no harm when he puts thee to Bed.</p>
+            <p n="2">2. And may it not ſtay the impetuous Tor<g ref="char:EOLhyphen"/>rent of immoderate Grief for deceaſed Friends; <hi>He is not Dead but ſleepeth.</hi>
+            </p>
+            <p>And have not you known the Husband go to bed a few hours before the Wife? The Father before the Child? And there is no readier way to provoke God to ſnatch them from us, than by too much doting upon them. We ſhould be careful not to turn our golden Ear-rings into a
+<pb n="14" facs="tcp:95160:12"/>
+golden Calf, or lean too hard upon our Crutches. For then God often cuts off the Pipes, that we may live more upon the Fountain.</p>
+            <p>
+               <note place="margin">Advice.</note>To conclude by way of Advice, that we may ſleep in Jeſus,</p>
+            <p>Be careful, (1.) That we live in no Sin unre<g ref="char:EOLhyphen"/>pented of. It's the Childs miſcarriage in the day, that makes it loth to go to Bed at Night, leſt it's Father ſhould reckon with it then: Live we then, that, as <hi>Job</hi> ſpeaks, our Hearts may not reproach us whilſt we live. And (2.) In an intire Reſignation, and ſurrender to the Will of God.<note place="margin">Gen. 38. <hi>v.</hi> 6.</note> How much did <hi>Potiphar</hi> provide for his own eaſe, and quiet, when he left all in <hi>Joſeph</hi>'s hand. Could we leave all our Concernments to God; let God do what he will: How might we poſſeſs our Souls, in all Times, and Condi<g ref="char:EOLhyphen"/>tions of Life! and without Conſternation, and Amazement of Spirit, look Death in the Face! But when we tenaciouſly hold all we can from God, have our Affections ſet upon things be<g ref="char:EOLhyphen"/>neath, live unſuitably to the deſigns of the Ho<g ref="char:EOLhyphen"/>ly Goſpel, and Religion we profeſs: No wonder if the Thoughts of Death prove uneaſie. With what Confidence can we commit our ſelves to God when Dying, when Enemies to God when Living? For a man to live in open defiance to the Laws of God when Living, and to Bequeath his Soul to God at Death, is an Incongruous thing: We do not make our Enemies, but our Friends our Executors. To conclude, (3.) Let's live with our Hearts more inflamed with love
+<pb n="15" facs="tcp:95160:12"/>
+to God, and in a Sence of our Mortality: and the latter will be Influential upon the former. Fire is beſt preſerved in its own Aſhes.</p>
+            <p>In ſhort, let us imitate holy <hi>David</hi> in ſervice<g ref="char:EOLhyphen"/>ableneſs to God in our Generation, and this by the Will of God; then may we expect a <hi>Da<g ref="char:EOLhyphen"/>vids</hi> iſſue and event, to ſleep in Jeſus. They who perform a <hi>Davids</hi> ſervice, may expect a <hi>Davids</hi> Portion.</p>
+            <p>And this I dare ſay was the deſign of our de<g ref="char:EOLhyphen"/>ceaſed honoured Friend, and Brother: To whom I may apyly all the parts of the Text already ſpoken of. But to give a full, and proportiona<g ref="char:EOLhyphen"/>ble Character of this great, and good man, is a Province too big for my feeble Hands and Stammering Tongue; and might be more fit for ſome of you my Reverend Fathers, or Brethren, whoſe Tongues do naturally flow with Streams of Silver Eloquence.</p>
+            <p>But ſince this task is ſo unwillingly devolved upon my weak hands, expect that I ſhould on<g ref="char:EOLhyphen"/>ly draw his Picture in faint and water Colours; which by your Pencils might better have been laid in Oyl, who might rear him a Monument which might laſt ſo long as this Church en<g ref="char:EOLhyphen"/>dures. In ſpeaking to the ſubject before us, I fear not an Exceſs, or Hyperbole. He was be<g ref="char:EOLhyphen"/>neath flattery, above my Commendations.</p>
+            <p>It is not my deſign here to ſpeak (as is uſually upon ſuch occaſions) of his Extract, and Original, deſcended of a Family of good repute in the Weſt parts of <hi>England.</hi>
+            </p>
+            <p>Nor of his Education in one of the moſt fa<g ref="char:EOLhyphen"/>mous
+<pb n="16" facs="tcp:95160:13"/>
+Schools of Learning in our Land, at <hi>Ea<g ref="char:EOLhyphen"/>ton;</hi> or of his being a member ſucceſſively in two Colledges in the ancient Univerſity of <hi>Ox<g ref="char:EOLhyphen"/>ford:</hi> Or to Traverſe the former part of his Life, unknown to me. I ſhall take notice of him only, as to that part, ſince God in his Pro<g ref="char:EOLhyphen"/>vidence ſet him in this place. And here I will make my appeal to you of this place and Neigh<g ref="char:EOLhyphen"/>bourhood, whether he was not ſerviceable to God in his Generation, in all thoſe capacities al<g ref="char:EOLhyphen"/>ready mentioned in holy <hi>David.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> Take him in his Civil Relation, as a Man, and member of a civil Society. Thô no Governour in civil Affairs, yet as a Friend, or Neighbour, induſtrious either in preventing diſ<g ref="char:EOLhyphen"/>cords, or compoſing differences, which is a good piece of ſervice; which when he undertook (as he was not averſe to any good Offices) he effected with mildneſs, gentleneſs, and calmneſs, bringing differing Parties to a true underſtand<g ref="char:EOLhyphen"/>ing of each other, ſo as to lay a Foundation for a thorough Reconciliation. Of ſuch a heal<g ref="char:EOLhyphen"/>ing Spirit, as he ever carried with him Balſam to cure Wounds; but could not endure Gaul and Vinegar to be poured in, to procure a Rankle or Feſter. And were he only ſerviceable in this reſpect,<note place="margin">Matth. 5.</note> he might fall under the bleſſing of Peace<g ref="char:EOLhyphen"/>makers.</p>
+            <p>
+               <hi>Secondly,</hi> But conſider we him in his Miniſte<g ref="char:EOLhyphen"/>rial Capacity and Employment.</p>
+            <p n="1">(1ſt.) His Ability, and skill in all parts of Learning, whether Original Languages, in Anti<g ref="char:EOLhyphen"/>quity, or Modern Hiſtory, Chronology or Geo<g ref="char:EOLhyphen"/>graphy:
+<pb n="17" facs="tcp:95160:13"/>
+Divine or Humane, whatever was fit for a Divine, or was an Accompliſhment for a Gentle<g ref="char:EOLhyphen"/>man, is too well known, to be diſputed, or diſtru<g ref="char:EOLhyphen"/>ſted. He underſtood both Men, and Books, and a competent Judge of both. Of quick Apprehenſion, ſtrong Memory, and ſound Judgment, not taken with thin Airy and Jejune Notions: But one who valued things more by their Solidity and Weight than by their Varniſh, and Rhetorick.</p>
+            <p n="2">(2.) And as theſe could not be attained without pains; ſo he was not leſs Induſtrious in imploying his Talent, in his conſtant and publick Preaching, until Sickneſs took him off, and Death gave him a <hi>Quietus</hi> from his Labours: It was very ſeldom, but he was thrice in the Week in the Pulpit, beſides his Attendance upon publick Prayers. In his pub<g ref="char:EOLhyphen"/>lick Miniſtration he affected not Oſtentation of Parts, ſublime Strains of flanting Rhetorick, curious ſtarch't Sentences, fine Cadencies, or neat ſet Periods: He uſed not the inticing Words of Mans Wiſdom; but ſtudied ſound Doctrine, and manly Sence, and con<g ref="char:EOLhyphen"/>deſcending to the meaneſt Capacities; rather ſeeking to inform the Judgment, and affect the Heart, more than to Tickle the Ear.</p>
+            <p>He eſteemed that Knowledge paſſed into the un<g ref="char:EOLhyphen"/>derſtanding by plain Truths, and Method beſt, as light into a Room by clear, and plain, not painted Glaſs.</p>
+            <p>
+               <q>He was a man of too great a Mind to make Rents, and Diviſions in the Church upon the ac<g ref="char:EOLhyphen"/>count of a Form of wholeſom Words; which in publick Adminiſtrations upon mature Deliberation, was not matter of conſtraint but choice. He ne<g ref="char:EOLhyphen"/>ver
+<pb n="18" facs="tcp:95160:14"/>
+thought it an Argument of Piety that his Bible would warrant him to turn Martyr for a Ce<g ref="char:EOLhyphen"/>remony.</q> He did not hide his Talents in a Nap<g ref="char:EOLhyphen"/>kin, but was willing to ſpend and be ſpent, in the ſervice of his Lord and Maſter. And probably might have continued longer, had he not too much addicted himſelf to a Studious, and Sedentary courſe of Life. You will all bear me witneſs that he hath been the Cement of this place for divers Years; keep<g ref="char:EOLhyphen"/>ing his Flock from Stragling, and reconciling Diſſen<g ref="char:EOLhyphen"/>ters to the eſtabliſhed Church of <hi>England.</hi>
+            </p>
+            <p n="3">(3.) Nor was he leſs remarkable for his Meekneſs and Humility; not of a Supercilious, Imperious or Rough Temper, that will endure no contradiction, but could with Patience hear, and wiſdom weigh, what was propoſed by others; no Imperious Dicta<g ref="char:EOLhyphen"/>tor, not Paſſionate, or peremptory, but ready to hearken when reaſon was offered; and willing to learn to the laſt. In publick reproofs mild, teſtify<g ref="char:EOLhyphen"/>ing rather Pity and Compaſſion, than Wrath and Indignation: by which means he gained more up<g ref="char:EOLhyphen"/>on the Affections of his People, than either a Tet<g ref="char:EOLhyphen"/>chy frowardneſs, or haughty diſdain would ever have effected. Although probably his natural temper was ſomewhat quick, yet through the Grace of God, was great Maſter of his Paſſions. In all my converſe with him, I do not remember any Indecency; or the waters at any time near over-flowing the banks. Though a great Maſter of Reaſon, and Judge of Sence, yet a moſt candid Auditor. Although he might in ſo many as he converſed with, meet with ſome Provocations to diſcompoſe him. He had learned the Apoſtles rule, to ſpeak evil of no man,
+<pb n="19" facs="tcp:95160:14"/>
+cloathed with Humility, and the Ornament of a quiet Spirit.</p>
+            <p n="4">(4.) To which, we may add, Exemplarineſs of Converſation. Not a <hi>Jacobs</hi> Voice, and an <hi>Eſaus</hi> hands. He well underſtood that bad Actions were not only a diſhonour to God, a diſparagement to our Holy Religion; but were apt to take a deeper Impreſſion upon mens Minds, than their Doctrine, and ſooner tranſcribed in mens Converſation. Hence he was careful to teach in his Life, as well as preach with his Tongue; in his Pariſh, as well as from the Pulpit. He knew a Prieſt muſt be accountable to God, not only for his Doctrine, but his Converſati<g ref="char:EOLhyphen"/>on; therefore careful that he might not deſtroy the Benefit, and effect of ſound and Orthodox, Canoni<g ref="char:EOLhyphen"/>cal Doctrine, by a Heterodox, and Apochryphal Con<g ref="char:EOLhyphen"/>verſation. He was ſedulous to give no occaſion to produce any bad example of his, which others would be apt to adopt into an apology or excuſe for their own Miſdemeanours and Miſcarriages. In all Com<g ref="char:EOLhyphen"/>pany of a very ſteady and grave Comportment.</p>
+            <p>To which he ſubjoyned, (5.) Stedfaſtneſs in the Doctrine, and Diſcipline of the Church of <hi>England.</hi> I knew his ſence in this particular as well as ſome others: He was not <hi>Chamaeleon</hi>-like, changing colour according to his Company, but juſtified in private, what was his publick Practice againſt all gain-ſayers.</p>
+            <p>I might add more, relating to his Eccleſiaſtical capacity, but I muſt haſten to ſhew how he was ſerviceable in his Generation.</p>
+            <p>
+               <hi>Thirdly,</hi> In his private Relation. But I had almoſt forgot one thing relating to the former, which is, his readineſs upon all occaſions, and leaſt intimati<g ref="char:EOLhyphen"/>ons,
+<pb n="20" facs="tcp:95160:15"/>
+to viſit the ſick: not over-looking the pooreſt ſort, reaching forth not only wholſom advice, but ſuperadding a charitable hand, where he ſaw need and occaſion.</p>
+            <p>
+               <q>A pregnant inſtance of his large Heart, and hand, is evident in his Charitable Bequeſt, and Le<g ref="char:EOLhyphen"/>gacy he hath left for the benefit of the poor of this Pariſh; to continue to ſucceeding Generations. So as thoſe who never knew him, may bleſs him.</q> I muſt confeſs I have heard him lament, that in viſit<g ref="char:EOLhyphen"/>ing ſome poor, that he hath found ſome ſo groſly Ignorant in the Articles of Chriſtian Religion. But it's high time now to mention, and I can but menti<g ref="char:EOLhyphen"/>on, his domeſtick Carriage. His dear Affection, and tender Compaſſion to his Conſort, and Relatives, whereof the mournful Eyes, and ſorrowful Hearts, of thoſe who are preſent, is a ſufficient demonſtration.</p>
+            <p>In his Family Grave, yet Familiar. Not Rigid and Auſtere. Affable, yet Devout. A Prieſt in his Family, as well as in the Temple. He loved not long or late abſence from the place of his abode: He carried a watch in his Boſom, to mind him of ſeaſonable retirements, accounting there was ſome<g ref="char:EOLhyphen"/>thing to be done at home beſides going to Bed.</p>
+            <p>I paſs over his ſecret, and Cloſet retirements. And it's now high time to haſten to the ſecond part of his management of himſelf, as the Text tells us, <hi>By the Will of God.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> In all theſe Relations his care was to ma<g ref="char:EOLhyphen"/>nage himſelf by the ſureſt, ſafeſt Rule, <hi>The Will of God.</hi> This both in private Diſcourſe, and in his pub<g ref="char:EOLhyphen"/>lick Preaching: Tho' he did ſometimes, and could make uſe of the Judgment of the Ancient Fathers,
+<pb n="21" facs="tcp:95160:15"/>
+but this (not to found his Faith upon,) but only to ſtrengthen it by their Authority. His Method was to back his Diſcourſe with Proofs out of theſe ſacred Oracles, in which he was an eloquent <hi>Apollos.</hi> He loved, and honoured the gray hairs of Antiquity; but with <hi>Tertullian,</hi> revered the Plenitude of the Scriptures. It was hence he took the Articles of his Faith, and Rules of Life: and his Creed was compo<g ref="char:EOLhyphen"/>ſed before that of <hi>Trent.</hi>
+            </p>
+            <p>I muſt not omit here to ſpeak of other of his na<g ref="char:EOLhyphen"/>tural, and moral Endowments: Sweetneſs of Temper: Courteſie of Behaviour. A pleaſant yet profitable Companion. I have known ſeveral of his Friends, who would ſay, they were as well pleaſed with his Ordinary and Familiar Diſcourſe, as his Preaching, which ſpoke him a great man, becauſe in his pub<g ref="char:EOLhyphen"/>lick Exerciſes he ſtudied to condeſcend to the mean<g ref="char:EOLhyphen"/>eſt Capacities; but with the more polite, and learn<g ref="char:EOLhyphen"/>ed evidenced himſelf a Scholar. Yet his publick diſ<g ref="char:EOLhyphen"/>courſes were always Manly, Practicable, Profitable.</p>
+            <p>In his converſe he was neither Moroſe, or Cyni<g ref="char:EOLhyphen"/>cal; nor Airy and Froathy; but ſuch as any man in an hours diſcourſe might return bettered from him.</p>
+            <p>His Charity to his Neighbours upon all occaſions, is well known in this place. But as he would not boaſt of it whilſt living, I will not blaze it now he is dead. He affected Secrecy rather than Popula<g ref="char:EOLhyphen"/>rity therein; according to our Saviours Rule,<note place="margin">Matth. 6.</note> 
+               <hi>Give not thine Alms before men, to be ſeen of them.</hi>
+            </p>
+            <p>His love to this people, appeared in not leaving them, when under the Temptation of other fair of<g ref="char:EOLhyphen"/>fers in his Native Countrey, and near his Relations.</p>
+            <p>His Faithfulneſs to his Friend, is not to be forgot<g ref="char:EOLhyphen"/>ten:
+<pb n="22" facs="tcp:95160:16"/>
+Here was a Breaſt where one might ſafely lock a ſecret; where he found a <hi>David,</hi> he proved a <hi>Jo<g ref="char:EOLhyphen"/>nathan.</hi> In all things eying the <hi>Will of God.</hi>
+            </p>
+            <p>
+               <hi>Laſtly.</hi> But now, (as the good man in the Text,) <hi>He is fallen aſleep.</hi> His Diſtemper approached gra<g ref="char:EOLhyphen"/>dually upon him, termed by the skilful in the faculty of Phyſick, a Scorbutick Dropſie, which proved un<g ref="char:EOLhyphen"/>conquerable by all their Art and Skill. This attend<g ref="char:EOLhyphen"/>ed with a Drowſineſs, towards his latter end; ſo as al<g ref="char:EOLhyphen"/>tho' he knew, and underſtood well, yet he was apt to fall aſleep before he had finiſhed an anſwer. But un<g ref="char:EOLhyphen"/>der went all his afflictions, with a calmneſs and Sere<g ref="char:EOLhyphen"/>nity of Mind, with an intire reſignation unto the Divine Will. Nor was he under too tedious Pains, and ar<g ref="char:EOLhyphen"/>ticles, that ſome meet with before their departure: And next to a ſafe paſſage hence, an eaſie <hi>tranſi<g ref="char:EOLhyphen"/>tus</hi> is very deſireable. In a ſober ſence he truly fell aſleep.</p>
+            <p>Thus dyed this great, and good Man. May we of the Clergy bewail the loſs of ſuch a painful, ſteady, valiant, Work-man and Labourer in Gods Vineyard. And,<note place="margin">Micah 2.2.</note> God knows, in a time when we could ill ſpare him. Such was the time when the Prophet com<g ref="char:EOLhyphen"/>plained that the good man was periſhed from the Earth; ſeveral great and ſtout Champions have of late fallen by death, into the Liſt of whom we may well put our deceaſed Brother. Who for Prudence, Induſtry, Integrity, and Ability, may be a pattern to many of us ſurviving.</p>
+            <p>Let me alſo Addreſs my ſelf to you of this Place, and Pariſh, who were lately under his prudent Care and Conduct: Death hath plaid a mighty prize, at once triumphing over Learning, ſweet
+<pb n="23" facs="tcp:95160:16"/>
+Nature, Goodneſs, and Experience: and at one ſtroak, laid in the duſt your faithful Miniſter, at the age of about fifty four Years.</p>
+            <p>I hope I need not call for Mourning Men,<note place="margin">Jer. 9.17.</note> or Mourning Women, to take up wailing, or make a bitter Lamentation. You of this place, I hope had generally ſuch a paſſionate affection for him, as the very ſpectacle of ſo faithful a watchman, will com<g ref="char:EOLhyphen"/>mand your Tears, and perſwade you almoſt, (for this your Father) to weep with <hi>Rachel,</hi> ſo as to refuſe to be comforted. My hearty deſire for you is, that God would make up your breach; and that although the Shepherd be ſmitten, the Sheep may not be ſcattered. Serious reſentments of ſuch Provi<g ref="char:EOLhyphen"/>dences of God, are mightily becoming of us, under ſuch heavy ſtroaks.</p>
+            <p>The Heathen reſented the loſs of one Philoſo<g ref="char:EOLhyphen"/>pher more than of many Orators, becauſe Ora<g ref="char:EOLhyphen"/>tors taught men to ſpeak well, but Philoſophers to live well: You have loſt one who knew how both to ſpeak well to you, and taught by Doctrine and Example to live well; tho' now to be laid in the ſilent grave as a piece of cold clay; may he that's dead yet ſpeak, I mean, ſpeak in the Lives and Converſations of his people. Repeat his excellent Sermons, and Diſcourſes in your Lives; and take heed of Sceptical ſhakings in a day of Trial. Think you hear him now ſpeaking to you,<note place="margin">Phil. 2. v. 12.</note> as St. <hi>Paul</hi> to the <hi>Philipians: Wherefore my beloved Brethren, as ye have always obeyed, not only in my pre<g ref="char:EOLhyphen"/>ſence, but in my abſence; work out your Salvation,</hi> &amp;c. Preſerve that Unity he left among you, when he left you; avoiding a needleſs dividing and ſepara<g ref="char:EOLhyphen"/>ting Spirit.</p>
+            <p>
+               <pb n="24" facs="tcp:95160:17"/>And particularly to you of the Youth of this Town, and Place. Remember ye the wholſom advices ye have received from him, the ſober de<g ref="char:EOLhyphen"/>meanour you cannot but have obſerved, back't with the <hi>Imprimatur</hi> of Gravity, and Gray-hairs. So that whilſt poſſibly you may hear ſome of the Cler<g ref="char:EOLhyphen"/>gy aſperſed as careleſs and negligent, recall to mind that you have had a Preſident, of one before you in this Place, Devout in Prayers, Diligent in Preach<g ref="char:EOLhyphen"/>ing, and of an exemplary Converſation, amongſt o<g ref="char:EOLhyphen"/>thers of the Church of <hi>England.</hi>
+            </p>
+            <p>I ſhall conclude: May this Vacancy be ſuppli<g ref="char:EOLhyphen"/>ed, with a Perſon of Wiſdom, Ability, and Inte<g ref="char:EOLhyphen"/>grity, that may carry on the work of God, and build upon the Foundations here already laid by him. Yea may a double Portion of <hi>Elijahs</hi> Spi<g ref="char:EOLhyphen"/>rit reſt upon <hi>Eliſha,</hi> for Gods Glory, and the fur<g ref="char:EOLhyphen"/>therance of your Salvation. And may we all ſtu<g ref="char:EOLhyphen"/>dy to be ſerviceable in our Generations, and to do all by the Will of God, that when we depart hence we may ſleep in Jeſus; and let all this peo<g ref="char:EOLhyphen"/>ple ſay, <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>Now to God the Father,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
